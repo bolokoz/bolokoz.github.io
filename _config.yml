@@ -1,27 +1,24 @@
 # Site settings
-title: Cafofo
-subtitle: Yuri Becker
+title: Yuri Becker
+subtitle: Blog + Site
 email: yurifbeck@gmail.com
-description: A place for all the projects I'm working<br /> And eventually gave up.
+description: A place for all the my projects <br /> Hopefully this will help you and me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bolokoz.github.io" # the base hostname & protocol for your site
 author: Yuri
-street_address: Rua da alegria
 city: Campo Grande
 state: MS
-zip_code: 1337
+#zip_code: 1337
 country: Brasil
-phone: 1337 1337
+# phone: 1337 1337
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # Social settings
-500px_url:
-facebook_url:
 github_url: https://github.com/bolokoz
-instagram_url: https://instagram.com/yurifbeck
+instagram_url: https://instagram.com/yurifbecker
 
 # Build settings
 markdown: kramdown
