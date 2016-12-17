@@ -1,8 +1,8 @@
 # Site settings
-title: Vish
+title: Cafofo
 subtitle: Yuri Becker
 email: yurifbeck@gmail.com
-description: Some of my stuff<br /> pra nóis.
+description: A place for all the projects I'm working<br /> And eventually gave up.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bolokoz.github.io" # the base hostname & protocol for your site
 author: Yuri
