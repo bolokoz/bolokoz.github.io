@@ -22,6 +22,6 @@ I'll try to keep this updated.
 
 Hopefully this will become a portfolio in some time.
 
-Stay with a picture of an *Stellated Dodecahedron*.
+Stay with a picture of a *Stellated Dodecahedron*.
 
 ![Escher]({{ site.url }}/assets/images/stellated_dodecahedron_1_by_tomholliday.jpg)
