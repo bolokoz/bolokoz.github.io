@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-"# bolokoz.github.io"
-=======
-# hi
+My personal website + blog
+Template is called Forty ?
+Made with jekyll + Travis
 
-Travis?T it uy
-
-teste um dois tres
+It's my first web dev project
