@@ -2,7 +2,7 @@
 layout: post
 title: Init
 description: First post and why a blog
-image: assets\images\stellated_dodecahedron_1_by_tomholliday.jpg
+image: assets/images/stellated_dodecahedron_1_by_tomholliday.jpg
 ---
 
 HI.
