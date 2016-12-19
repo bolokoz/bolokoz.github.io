@@ -2,6 +2,8 @@
 layout: post
 title: Init
 description: First post and why a blog
+category: blog
+tags: test bacon pudim
 image: assets/images/stellated_dodecahedron_1_by_tomholliday.jpg
 ---
 
@@ -16,3 +18,5 @@ I'll try to keep this updated.
 Hopefully this will become a portfolio in some time.
 
 Stay with an picture of an *Stellated Dodecahedron*.
+
+![Escher]({{ site.url }}/assets/images/stellated_dodecahedron_1_by_tomholliday.jpg)

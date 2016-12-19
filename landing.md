@@ -9,7 +9,7 @@ nav-menu: true
 <section id="banner" class="style2">
   <div class="inner">
   <span class="image">
-  <img src="{{ site.baseurl }}/%7B%7B%20page.image%20%7D%7D" alt="">
+  <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
 </span>
   <header class="major">
 
