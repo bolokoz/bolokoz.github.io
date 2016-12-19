@@ -1,16 +1,16 @@
 ---
 title: Tutorials
-layout: landing
+layout: page
 description: I have such a short memory.  
 image: assets/images/pilars-of-creation.jpg
 nav-menu: true
 ---
 
-<!-- <section id="banner" class="style2">
+<section id="banner" class="style2">
   <div class="inner">
   <span class="image">
   <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
-</span> -->
+</span>
   <header class="major">
 
 # Landing
