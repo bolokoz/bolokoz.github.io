@@ -1,6 +1,6 @@
 ---
 title: Tutorials
-layout: page
+layout: tutorial
 <!-- description: I have such a short memory.  
 image: assets/images/pillars-of-creation.jpg
 nav-menu: true -->
