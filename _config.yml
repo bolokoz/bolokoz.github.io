@@ -22,3 +22,10 @@ instagram_url: https://instagram.com/yurifbecker
 
 # Build settings
 markdown: kramdown
+
+#My collections
+permalink: pretty
+
+collections:
+  tutorials:
+    output: true
