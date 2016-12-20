@@ -1,13 +1,8 @@
 ---
 title: Tutorials
 layout: tutorial
-<!-- description: I have such a short memory.  
-image: assets/images/pillars-of-creation.jpg
-nav-menu: true -->
+landing-title: 'Hello'
+description: description
 ---
 
-{% for tutorial in site.tutorials %}
-    <div class="tutorial">
-        <h2><a href="{{ tutorial.url }}">{{ tutorial.title }}</a></h2>
-    </div>
-{% endfor %}
+My turoials
