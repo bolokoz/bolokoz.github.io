@@ -10,7 +10,7 @@ published: true
 
 HI.
 
-This is my first ever blog post.
+This is my first blog post ever.
 
 I decided to do this to make myself productive and keep track of my development.
 
@@ -22,6 +22,6 @@ I'll try to keep this updated.
 
 Hopefully this will become a portfolio in some time.
 
-Stay with a picture of a *Stellated Dodecahedron*.
+I'll leave you with a *Stellated Dodecahedron*.
 
 ![Escher]({{ site.url }}/assets/images/stellated_dodecahedron_1_by_tomholliday.jpg)
