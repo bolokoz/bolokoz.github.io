@@ -29,9 +29,9 @@
 			background-repeat: no-repeat;
 			background-size: cover;
 			cursor: default;
-			height: 40vh;
-			max-height: 40em;
-			min-height: 23em;
+			height: 40vh; //Change
+			max-height: 40em; //Change here
+			min-height: 15em; //Change here
 			overflow: hidden;
 			position: relative;
 			width: 40%;
@@ -70,7 +70,7 @@
 				bottom: 0;
 				content: '';
 				display: block;
-				height: 100%;
+				height: 100%; //Change the size of the overlay color
 				left: 0;
 				opacity: 0.85;
 				position: absolute;

@@ -17,10 +17,10 @@
 		background-size: cover;
 		border-bottom: 0 !important;
 		cursor: default;
-		height: 60vh;
+		height: 10vh;
 		margin-bottom: -3.25em;
 		max-height: 32em;
-		min-height: 22em;
+		min-height: 4em;
 		position: relative;
 		top: -3.25em;
 
@@ -95,8 +95,8 @@
 		}
 
 		&.major {
-			height: 75vh;
-			min-height: 30em;
+			height: 40vh;   //Change here
+			min-height: 10em; //tune here
 			max-height: 50em;
 
 			&.alt {
