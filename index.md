@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hello'
-description: 'aa'
-image: null
+title: Home page
+landing-title: 'Welcome'
+description: 'To my website'
+image: assets/images/pudim.jpg
 author: Yuri Becker
 ---
 

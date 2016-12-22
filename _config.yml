@@ -2,7 +2,7 @@
 title: Yuri Becker
 subtitle: Blog + Site
 email: yurifbeck@gmail.com
-description: A place for all the my projects <br /> Hopefully this will help you and me.
+description: Here is place for all my projects <br /> Hope you can learn something here today.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bolokoz.github.io" # the base hostname & protocol for your site
 author: Yuri
@@ -25,7 +25,22 @@ markdown: kramdown
 
 #My collections
 permalink: pretty
-
 collections:
   tutorials:
     output: true
+
+#Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "projects"
+      type: "pages" # previously `page` in Jekyll 2.2.
+    values:
+      layout: "project" # overrides previous default layout
+      author: "Mr. Hyde"

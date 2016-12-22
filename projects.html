@@ -1,0 +1,15 @@
+---
+title: Projects
+layout: page
+description: All my kPROEJCTOSSSS
+image: assets/images/pillars-of-creation.jpg
+nav-menu: true
+a: 'a'
+
+---
+
+{% for project in site.projects %}
+	<div >
+		<h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+	</div>
+{% endfor %}
