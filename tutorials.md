@@ -6,21 +6,23 @@ image: /assets/images/jupiter.jpg
 comments: false
 ---
 
-## Android tutorials
-
-Here's a list of tutorials made for android:
+> ## Android tutorials
 
 {% assign category = 'android' %}
 {% include tiles-tutorials.html %}
 
 ------
-## Python tutorials
+
+
+> ## Python tutorials
+
+
 
 {% assign category = 'python' %}
 {% include tiles-tutorials.html %}
 
 -----
-## R turorials
+> ## R tutorials
 
 
 {% assign category = 'r' %}
