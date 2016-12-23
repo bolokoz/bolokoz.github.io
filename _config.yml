@@ -31,7 +31,7 @@ collections:
 
 #Defaults
 defaults:
-  -
+  - 
     scope:
       path: ""
       type: "posts"
