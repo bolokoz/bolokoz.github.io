@@ -4,7 +4,7 @@ title: Init
 description: First post and why a blog
 category: blog
 tags: test bacon pudim
-image: assets/images/stellated_dodecahedron_1_by_tomholliday.jpg
+image: /assets/images/stellated_dodecahedron_1_by_tomholliday.jpg
 published: true
 comments: true
 ---

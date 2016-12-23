@@ -2,14 +2,26 @@
 title: Tutorials
 layout: page
 description: Ongoing and finished projects
-image: assets/images/jupiter.jpg
+image: /assets/images/jupiter.jpg
 comments: false
 ---
 
-<h1> Ongoing projects </h1>
+## Android tutorials
 
-## Alalal
+Here's a list of tutorials made for android:
 
-Here's a list of my projects that are still in dev:
+{% assign category = 'android' %}
+{% include tiles-tutorials.html %}
 
+------
+## Python tutorials
+
+{% assign category = 'python' %}
+{% include tiles-tutorials.html %}
+
+-----
+## R turorials
+
+
+{% assign category = 'r' %}
 {% include tiles-tutorials.html %}

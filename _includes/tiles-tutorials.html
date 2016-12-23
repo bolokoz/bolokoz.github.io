@@ -1,17 +1,15 @@
 <section id="one" class="tiles">
 
-	{% for tutorial in site.tutorials %}
-	{% if tutorial.layout == "tutorial" %}
-        <article>
-                <span class="image">
-                        <img src="{{ tutorial.image }}" alt="" />
+	{% for tutorial in site.tutorials %} {% if tutorial.category == {{category}} %}
+	<article>
+		<span class="image">
+                        <img src="{{ tutorial.image }}" alt="{{ tutorial.image}}" />
                 </span>
-                <header class="major">
-                        <h3><a href="{{ tutorial.url | relative_url}}" class="link">{{ tutorial.url }}</a></h3>
-                        <p>{{ page.description }}</p>
-                </header>
-        </article>
-	{% endif %}
-	{% endfor %}
+		<header class="major">
+			<h3><a href="{{ tutorial.url | relative_url}}" class="link">{{ tutorial.title }}</a></h3>
+			<p>{{ tutorial.description }}</p>
+		</header>
+	</article>
+	{% endif %} {% endfor %}
 
 </section>
