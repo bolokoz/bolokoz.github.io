@@ -28,6 +28,10 @@ permalink: pretty
 collections:
   tutorials:
     output: true
+  notebooks:
+    output: true
+  projects:
+    output: true
 
 #Defaults
 defaults:
