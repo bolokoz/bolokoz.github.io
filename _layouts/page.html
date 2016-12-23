@@ -1,9 +1,4 @@
 <!DOCTYPE html>
-<!--
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 
 {% include head.html %}
@@ -11,8 +6,15 @@
 
 <body>
 
-    {% include header.html %} {{ content }}
-     {% include footer.html %}
+	{% include header.html %} 
+
+	<div id="main" class="alt">
+
+		{{ content }}
+
+	</div>
+
+	{% include footer.html %}
 
 </body>
 
