@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Books
-description: Documentation of important things
+title: Notebooks
+description: Documentation
 image: assets/images/pale-blue-dot.jpg
 nav-menu: true
 comments: false
 ---
 
-{% for tutorial in site.tutorials %}
+{% for notebook in site.tutorials %}
 	<div >
-		<h2><a href="{{ tutorial.url }}">{{ tutorial.title }}</a></h2>
+		<h2><a href="{{ notebook.url }}">{{ notebook.title }}</a></h2>
 	</div>
 {% endfor %}
 
