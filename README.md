@@ -16,6 +16,13 @@ It's my first web dev project and I have no ideia what's going on. Never used ru
 
 If you are passing by and knows how to do some of these things, I'll be grateful if you can help.
 
+- Blog layout
+  - Return to blog button above title
+  - Blog page tiles are not border to border
+  - Try to make footer go up to the tiles like homepage
+  - Tile image is too bright and text is hard to read
+
+
 - Improvements taken from [bettermotherfuckingwebsite](bettermotherfuckingwebsite.com). The sass files from this template are so huge. I'm regretting not starting with a simpler design. I don't even know where to change the values.
   - Make 60-80 characters long lines. (max-width?)
   - Increase font size
