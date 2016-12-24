@@ -15,13 +15,11 @@
 
 <!-- One -->
 <section id="one">
-	<div class="inner">
+	<div class="inner blog-post">
 		<header class="major">
 			<h1>{{ page.title }}</h1>
-			<h5>{{ page.time }}</h5>
+			<h5>{{ page.date | date_to_long_string }}</h5>
 		</header>
-		<!-- removed big image
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %} -->
 		<p>{{ content }}</p>
 	</div>
 </section>

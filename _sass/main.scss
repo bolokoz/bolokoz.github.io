@@ -44,6 +44,7 @@ layout: home
 			margin: 0 auto;
 			max-width: _size(inner);
 			width: calc(100% - 6em);
+			font-size: 18px;
 
 			@include breakpoint(small) {
 				@include padding(3em, 0);
