@@ -1,7 +1,7 @@
 ---
 title: Tutorials
 layout: page
-description: Ongoing and finished projects
+description: 
 image: /assets/images/jupiter.jpg
 comments: false
 ---
