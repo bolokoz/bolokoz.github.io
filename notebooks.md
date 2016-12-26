@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notebooks
-description: Documentation mostly from my university course
+description: Things I learned at school
 image: /assets/images/pale-blue-dot.jpg
 nav-menu: true
 comments: false
