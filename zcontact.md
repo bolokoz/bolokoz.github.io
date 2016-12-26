@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Contact me
 landing-title: 'Contact me'
 description: ''
