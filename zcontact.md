@@ -7,4 +7,4 @@ image: /assets/images/pudim.jpg
 author: Yuri Becker
 ---
 
-{$ include contact.html $}
+{% include contact.html %}
