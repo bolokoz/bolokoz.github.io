@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Rail resistance
-description: Interactive resistance graph with Shiny apps
+title: Train resistance
+description: Interactive graph with Shiny apps
 category: projects
 tags: r interactive engineering rail
 image: /assets/images/stellated_dodecahedron_1_by_tomholliday.jpg
