@@ -31,6 +31,5 @@ comments: false
 -----
 > ## R projects
 
-
 {% assign category = 'r' %}
 {% include tiles-projects.html %}

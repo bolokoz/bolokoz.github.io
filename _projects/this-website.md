@@ -4,7 +4,7 @@ title: This Website
 description: Jekyll - a static website generator
 category: web
 tags: test bacon pudim
-image: /assets/images/stellated_dodecahedron_1_by_tomholliday.jpg
+image: /assets/images/jekyll.png
 published: true
 comments: true
 ---

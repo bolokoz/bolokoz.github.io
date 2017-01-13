@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Train resistance
-description: Interactive graph with Shiny apps
-category: r
-tags: r interactive engineering rail
-image: /assets/images/train.jpg
+title: Numerical Analysis 3
+description: Android app for numerical methods
+category: android
+tags: test bacon pudim
+image: /assets/images/numerical-analysis.png
 published: true
 comments: true
 ---
