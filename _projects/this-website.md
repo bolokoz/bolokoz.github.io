@@ -2,7 +2,7 @@
 layout: post
 title: This Website
 description: Jekyll - a static website generator
-category: projects
+category: web
 tags: test bacon pudim
 image: /assets/images/stellated_dodecahedron_1_by_tomholliday.jpg
 published: true

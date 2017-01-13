@@ -7,8 +7,30 @@ nav-menu: true
 comments: false
 ---
 
-{% for project in site.projects %}
-	<div >
-		<h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
-	</div>
-{% endfor %}
+> ## Web projects
+
+
+{% assign category = 'web' %}
+{% include tiles-tutorials.html %}
+
+---
+
+> ## Android projects
+
+{% assign category = 'android' %}
+{% include tiles-tutorials.html %}
+
+------
+
+
+> ## Python projects
+
+{% assign category = 'python' %}
+{% include tiles-tutorials.html %}
+
+-----
+> ## R projects
+
+
+{% assign category = 'r' %}
+{% include tiles-tutorials.html %}
