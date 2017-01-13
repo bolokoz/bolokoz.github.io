@@ -11,14 +11,14 @@ comments: false
 
 
 {% assign category = 'web' %}
-{% include tiles-tutorials.html %}
+{% include tiles-projects.html %}
 
 ---
 
 > ## Android projects
 
 {% assign category = 'android' %}
-{% include tiles-tutorials.html %}
+{% include tiles-projects.html %}
 
 ------
 
@@ -26,11 +26,11 @@ comments: false
 > ## Python projects
 
 {% assign category = 'python' %}
-{% include tiles-tutorials.html %}
+{% include tiles-projects.html %}
 
 -----
 > ## R projects
 
 
 {% assign category = 'r' %}
-{% include tiles-tutorials.html %}
+{% include tiles-projects.html %}
