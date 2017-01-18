@@ -9,32 +9,24 @@ published: true
 comments: true
 ---
 
-# HI.
+# Interactive graphics using R and Shiny
 
-This is my first blog post ever.
+## Real time, interactive visualizations
 
-## Motivation
+This Web App uses a framework called Shiny. It's used for interactive visualizations and they have a very cool gallery showing all the cool stuff you can make [here][67d95b33]. They offer an website where you can upload some of your projects to be accessible without setting up a server yourself **for free**, *limited to 5 projects*.
 
-I decided to do this to make myself productive and keep track of my development.
+I made this in an attempt to learn using R for real life needs. All I had learn in the youtube tutorials were very dull and not practical. It just happened to be at the exact same time I was learning about train resistance *for the third time* in my course, so I took it a shot.
 
-Another reason is in case I forget something that I learned long ago, I'll have all my thought process and mistakes documented. All these information might just as well help somebody in the same situation or teach about something new.
+I found out that R is very newbie friendly, specially Shiny. Almost all I did when I had trouble was copying and pasting from the projects in the Shiny gallery.
 
-## Challenges
+At the end I tried using [Plot.ly for R](https://plot.ly) to make the graphics look even more cooler and I had some difficulty trying to figure it out.
 
-I'll try to write this in English to keep my brain challenged and out of my comfort zone. Lol. I just noticed 'comfort' is written with 'm'.  
+Overall it was an good experiment and I learned a lot. The result looks nice.
 
-I'll try to keep this updated and post interesting things.
+  [67d95b33]: https://shiny.rstudio.com/gallery/ "shiny gallery"
 
-## What I expect
+#[Access it here](https://yuribecker.shinyapps.io/ResistenciaFerroviaria/)
 
-Hopefully this will become a portfolio in a future time. I also just saw a [youtube video about overpopulation](https://www.youtube.com/watch?v=QsBT5EQt348) and got naively inspired to help humanity progress by disseminating knowledge, even if a little.  
+#[Project Github page](https://github.com/bolokoz/resistenciaRodoviaria)
 
-I hope I'll become better at writing and developing my personal side along the way.
-
-This post image is the *Stellated Dodecahedron* which is a geometric volume that is really pretty. It is used a lot by an artistic called **M.C. Escher** that I like.
-
-
-<p align="center">
-
-  <img src="/assets/images/stellated_dodecahedron_1_by_tomholliday.jpg" />
-</p>
+<iframe src="https://yuribecker.shinyapps.io/ResistenciaFerroviaria/" style="border: none;"></iframe>
