@@ -5,6 +5,7 @@ description: Android app for numerical methods
 category: android
 tags: test bacon pudim
 image: /assets/images/numerical-analysis.png
+date: 2017-1-15
 published: true
 comments: true
 ---

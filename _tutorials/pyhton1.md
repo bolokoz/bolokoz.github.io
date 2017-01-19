@@ -1,9 +1,27 @@
 ---
-title: Python1
-description: ahahaha
+title: Install Jupyter
+description: Using Docker
 image: http://lorempixel.com/400/200/
 category: python
 ---
-An Afghan biscuit is a traditional New Zealand biscuit made from flour, butter, cornflakes, sugar and cocoa powder, topped with chocolate icing and a half walnut. The recipe[1] has a high proportion of butter, and relatively low sugar, and no leavening (rising agent), giving it a soft, dense and rich texture, with crunchiness from the cornflakes, rather than from a high sugar content. The high butter content gives a soft melt-in-the-mouth texture, and the sweetness of the icing offsets the low sugar and the cocoa bitterness. The origin of the recipe and the derivation of the name are unknown, but the recipe has appeared in many editions of the influential New Zealand Edmonds Cookery Book.
 
-Source [Wikipedia](https://en.wikipedia.org/wiki/Afghan_biscuit)
+# What is Jupyter and Docker
+
+This probably is not very accurate but **for me** Jupyter is a python framework that lets you write a notebook and occasionally can use programming to display results and calculations in a pretty way. Which it makes perfect for a lot of cases, mostly reproducible research and tutorials.
+
+Docker ships the complete package so you won't hear 'it works in my machine' ever again.
+
+## First install Python
+
+- Linux: You probably already have installed Python.
+- Windows: just google Python, it's very easy. I recommend installing version 3 instead of version 2.
+
+## Install Docker
+
+- Linux: >sudo apt-get install docker-engine
+- Windows: go to docker website and figure it out Lol
+
+## Install Jupyter
+
+Now just type
+>docker run -it --rm -p 8888:8888 jupyter/tensorflow-notebook

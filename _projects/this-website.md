@@ -3,6 +3,7 @@ layout: post
 title: This Website
 description: Jekyll - a static website generator
 category: web
+date: 2017-1-15
 tags: test bacon pudim
 image: /assets/images/jekyll.png
 published: true

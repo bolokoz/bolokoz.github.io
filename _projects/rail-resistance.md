@@ -5,6 +5,7 @@ description: Interactive graph with Shiny apps
 category: r
 tags: r interactive engineering rail
 image: /assets/images/train.jpg
+date: 2017-1-15
 published: true
 comments: true
 ---
