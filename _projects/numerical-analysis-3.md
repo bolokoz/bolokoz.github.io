@@ -8,6 +8,7 @@ image: /assets/images/numerical-analysis.png
 date: 2017-1-15
 published: true
 comments: true
+status: development
 ---
 
 # Yes, it's the third iteration.

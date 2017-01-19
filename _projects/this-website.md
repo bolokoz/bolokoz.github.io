@@ -8,6 +8,7 @@ tags: test bacon pudim
 image: /assets/images/jekyll.png
 published: true
 comments: true
+status: finished
 ---
 
 # HI.

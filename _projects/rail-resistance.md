@@ -8,6 +8,7 @@ image: /assets/images/train.jpg
 date: 2017-1-15
 published: true
 comments: true
+status: finished
 ---
 
 # Interactive graphics using R and Shiny
