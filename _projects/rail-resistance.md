@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Train resistance
 description: Interactive graph with Shiny apps
 category: r
@@ -12,6 +12,9 @@ comments: true
 
 # Interactive graphics using R and Shiny
 
+<span class="image-fit"><img src="../../assets/images/railroad-resistance.png" alt="ResistenciaFerroviaria" align="center" style="max-width:80%"></span>
+
+
 ## Real time, interactive visualizations
 
 This Web App uses a framework called Shiny. It's used for interactive visualizations and they have a very cool gallery showing all the cool stuff you can make [here][67d95b33]. They offer an website where you can upload some of your projects to be accessible without setting up a server yourself **for free**, *limited to 5 projects*.
@@ -20,14 +23,13 @@ I made this in an attempt to learn using R for real life needs. All I had learn 
 
 I found out that R is very newbie friendly, specially Shiny. Almost all I did when I had trouble was copying and pasting from the projects in the Shiny gallery.
 
-At the end I tried using [Plot.ly for R](https://plot.ly) to make the graphics look even more cooler and I had some difficulty trying to figure it out.
-
-Overall it was an good experiment and I learned a lot. The result looks nice.
+At the end I tried using [Plot.ly for R](https://plot.ly) to make the graphics look even more cooler and I had some difficulty trying to figure it out. It eventually worked.
 
   [67d95b33]: https://shiny.rstudio.com/gallery/ "shiny gallery"
 
-#[Access it here](https://yuribecker.shinyapps.io/ResistenciaFerroviaria/)
-
-#[Project Github page](https://github.com/bolokoz/resistenciaRodoviaria)
-
-<iframe src="https://yuribecker.shinyapps.io/ResistenciaFerroviaria/" style="border: none;"></iframe>
+  <ul class="actions fit">
+    <li><a href="https://yuribecker.shinyapps.io/ResistenciaFerroviaria/" class="button special fit">Access App here</a></li>
+  </ul>
+  <ul class="actions fit">
+    <li><a href="https://github.com/bolokoz/resistenciaRodoviaria" class="button special fit">GitHub project</a></li>
+  </ul>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: This Website
 description: Jekyll - a static website generator
 category: web

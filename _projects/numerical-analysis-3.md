@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Numerical Analysis 3
 description: Android app for numerical methods
 category: android
