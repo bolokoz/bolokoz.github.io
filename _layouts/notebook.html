@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+
+{% include head.html %}
+{% include analytics.html %}
+
+<body>
+
+    {% include header.html %}
+
+
+<!-- Main -->
+<div id="main" class="alt">
+
+
+
+
+<!-- One -->
+<section id="one">
+	<div class="inner blog-post">
+
+    <! -- Go backu one level -->
+    <a href="../">Go back to Notebooks</a>
+  <hr>
+		<header class="major">
+			<h1>{{ page.title }}</h1>
+			<h5>Post date: {{ page.date | date_to_long_string }} </h5>
+		</header>
+		<p>{{ content }}</p>
+	</div>
+</section>
+
+</div>
+
+
+</body>
+
+{% include disqus.html %}
+{% include footer.html %}
+</html>

@@ -7,8 +7,8 @@ nav-menu: true
 comments: false
 ---
 
-{% for notebook in site.notebooks %}
-	<div >
-		<h2><a href="{{ notebook.url }}">{{ notebook.title }}</a></h2>
-	</div>
-{% endfor %}
+## EngTrans1
+
+{% assign category = 'EngTrans1' %}
+{% include tiles-notebooks.html %}
+
