@@ -23,7 +23,7 @@ If you are passing by and knows how to do some of these things, I'll be grateful
   - Tile image is too bright and text is hard to read
 
 
-- Improvements taken from [bettermotherfuckingwebsite](bettermotherfuckingwebsite.com). The sass files from this template are so huge. I'm regretting not starting with a simpler design. I don't even know where to change the values.
+- Improvements inspired from [bettermotherfuckingwebsite](bettermotherfuckingwebsite.com). The sass files from this template are so huge. I'm regretting not starting with a simpler design. I don't even know where to change the values.
   - Make 60-80 characters long lines. (max-width?)
   - Increase font size
   - Line height?
