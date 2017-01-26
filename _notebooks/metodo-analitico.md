@@ -1,5 +1,6 @@
 ---
 layout: notebook
+author: Yuri Becker
 title: Método analítico 
 description: R para resolver equações algébricas
 category: EngTrans1
