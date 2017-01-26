@@ -18,7 +18,7 @@ If you are passing by and knows how to do some of these things, I'll be grateful
 
 - Blog layout
   - Return to blog button above title
-  - Blog page tiles are not border to border
+ 
   - Try to make footer go up to the tiles like homepage
   - Tile image is too bright and text is hard to read
 
