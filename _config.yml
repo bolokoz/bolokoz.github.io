@@ -56,7 +56,7 @@ defaults:
       layout: "tutorial"
   -
     scope:
-      path:""
+      path: ""
       type: notebooks
     values:
       layout: "notebook"
