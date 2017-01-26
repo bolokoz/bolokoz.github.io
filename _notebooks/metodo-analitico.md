@@ -1,18 +1,21 @@
 ---
 layout: notebook
 title: Método analítico 
-description: Android app for numerical methods
+description: R para resolver equações algébricas
 category: EngTrans1
-tags: test bacon pudim
+tags: engenharia transportes r programação gráficos
 image: /assets/images/newton.png
 date: 2017-1-26
+language: pt
 published: true
 comments: true
 ---
 
 # Determinar velocidade de equilibrio
 
-Foi utlizado R 
+Invés de se utilizar o método gráfico, tentou-se obter o mesmo resultado através do método analítico. 
+
+
 
 <ul class="actions fit">
     <li><a href="/assets/pdfs/Etapa6.pdf" class="button special fit">Access notebook here</a></li>
