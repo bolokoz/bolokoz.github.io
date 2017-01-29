@@ -4,7 +4,7 @@ title: Restaurante Legal
 description: My first non-personal App
 category: android
 tags: android app restaurante legal development data base
-image: /assets/images/jupiter.jpg
+image: /assets/images/restaurante-banner.jpg
 date: 2017-1-19
 published: true
 comments: true
