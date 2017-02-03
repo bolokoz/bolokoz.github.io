@@ -1,3 +1,4 @@
+<!-- TILES WITH CATEGORIES!!!!!!
 
 <section id="one" class="tiles-small">
 	{% for notebook in site.notebooks %} {% if notebook.category == {{category}} %}
@@ -11,4 +12,19 @@
 		</header>
 	</article>
 	{% endif %} {% endfor %}
+</section> -->
+
+
+<section id="one" class="tiles-small">
+	{% for notebook in site.notebooks %}
+	<article>
+		<span class="image">
+                        <img src="{{ notebook.image }}" alt="{{ notebook.image}}" />
+                </span>
+		<header class="major">
+			<h3><a href="{{ notebook.url | relative_url}}" class="link">{{ notebook.title }}</a></h3>
+			<p>{{ notebook.description }}</p>
+		</header>
+	</article>
+ {% endfor %}
 </section>
