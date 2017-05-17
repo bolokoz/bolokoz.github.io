@@ -25,4 +25,3 @@ Invés de se utilizar o método gráfico, tentou-se obter o mesmo resultado atra
 <ul class="actions fit">
     <li><a href="https://github.com/bolokoz/r-notebooks/tree/master/EngTrans1" class="button special fit">Access Github code here</a></li>
   </ul>
-  
