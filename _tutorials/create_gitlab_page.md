@@ -1,9 +1,9 @@
 ---
 layout: post
 date: 2017-1-19
-description: Using Docker
+description: Free
 image: 'http://lorempixel.com/400/200/'
-category: python
+category: web
 ---
 
 ## Create and host a static webpage in GitLab
