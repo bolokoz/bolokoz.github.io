@@ -1,3 +1,11 @@
+---
+layout: post
+date: 2017-1-19
+description: Using Docker
+image: 'http://lorempixel.com/400/200/'
+category: python
+---
+
 ## Create and host a static webpage in GitLab
 
 GitLab offers free private projects unlike GitHub.
