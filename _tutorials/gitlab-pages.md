@@ -1,7 +1,8 @@
 ---
+title: Free Static Websites
 layout: post
 date: 2017-5-19
-description: Free
+description: Free and Private
 image: 'http://lorempixel.com/400/200/'
 category: web
 published: true
