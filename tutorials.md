@@ -1,9 +1,10 @@
 ---
 title: Tutorials
 layout: page
-description: 
+description: null
 image: /assets/images/jupiter.jpg
 comments: false
+published: true
 ---
 
 > ## Android tutorials
@@ -26,4 +27,11 @@ comments: false
 
 
 {% assign category = 'r' %}
+{% include tiles-tutorials.html %}
+
+-----
+> ## Web tutorials
+
+
+{% assign category = 'web' %}
 {% include tiles-tutorials.html %}

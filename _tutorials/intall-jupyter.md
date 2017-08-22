@@ -3,9 +3,11 @@ title: Install Jupyter
 layout: post
 date: 2017-1-19
 description: Using Docker
-image: http://lorempixel.com/400/200/
+image: 'http://lorempixel.com/400/200/'
 category: python
+published: true
 ---
+
 
 # What is Jupyter and Docker
 
