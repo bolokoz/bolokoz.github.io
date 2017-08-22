@@ -5,7 +5,7 @@ description: Websites simples e rápido!
 category: web
 date: 2017-9-21
 tags: web project dev
-image: /assets/images/webdev.png
+image: /assets/images/webdev.jpg
 published: true
 comments: true
 status: finished
@@ -14,9 +14,9 @@ status: finished
 # Tenha seu próprio website
 
 Normalmente empresas precisam de um site simples para que seus clientes possam pegar horário de funcionamento, telefones e informações gerais.
-Com isso em mente, o uso de templates torna o processo fácil, prático e acessível.
+o uso de templates torna o processo fácil, prático e acessível.
 
-## Como é feito
+## Como é feito?
 
 Escolha um dos templates abaixo.
 
@@ -24,8 +24,8 @@ Escolha um dos templates abaixo.
 
 Usa material design. Responsivo.
 
-<p align="center">
+<span class="image fir">
 <a href="ybtech.surge.sh">
-  <img src="/assets/images/template1.jpg" />
+  <img src="../../assets/images/template1.jpg" />
 </a>
-</p>
+</span>

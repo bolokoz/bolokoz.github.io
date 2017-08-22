@@ -13,7 +13,7 @@ status: finished
 
 # Interactive graphics using R and Shiny
 
-<span class="image-fit"><img src="../../assets/images/railroad-resistance.png" alt="ResistenciaFerroviaria" align="center" style="max-width:80%"></span>
+<span class="image-fit"><img src="../../assets/images/rail.jpg" alt="ResistenciaFerroviaria" align="center" style="max-width:80%"></span>
 
 
 ## Real time, interactive visualizations
