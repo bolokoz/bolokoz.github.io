@@ -1,4 +1,4 @@
-# My personal website + blog
+# Personal website + blog
 
 > Link here: [yuribecker.com.br](yuribecker.com.br)
 

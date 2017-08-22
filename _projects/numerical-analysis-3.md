@@ -26,4 +26,6 @@ Now, for the third edition, **MVC**. It's a programming concept where you separa
 
 Yeah, I don't think the app is very useful since numerical analysis is a thing you should do carefully - and when I say carefully I mean *not in a smartphone* - but who knows.
 
- Also, maybe someone can use it to cheat in a test. It's just stupid making students memorize numerical methods formulas nowadays. It's a kind of knowledge you have to always go look up a book, not from memory. In my case, **I failed my numerical methods** class even after making this app. I was understanding, like no one, the iterations and the nuances of each method that was required. Unfortunately I didn't memorize the *formulas of the error* of some methods and I had a 'no cheating philosophy' at that time. I failed and at that time I had applied to study in Netherlands and was denied to go just because of this fail...
+  <ul class="actions fit">
+    <li><a href="https://play.google.com/store/apps/details?id=com.yurifbecker.numericalanalysis3&hl=en" class="button special fit">Access App here</a></li>
+  </ul>
