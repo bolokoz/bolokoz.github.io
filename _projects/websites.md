@@ -25,7 +25,7 @@ Escolha um dos templates abaixo.
 Usa material design. Responsivo.
 
 <span class="image fir">
-<a href="ybtech.surge.sh">
+<a href="http://www.ybtech.surge.sh">
   <img src="../../assets/images/template1.jpg" />
 </a>
 </span>
