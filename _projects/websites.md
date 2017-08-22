@@ -22,7 +22,7 @@ Escolha um dos templates abaixo.
 
 ### Template 1
 
-Uses material design. Resposive.
+Usa material design. Responsivo.
 
 <p align="center">
 <a href="ybtech.surge.sh">
