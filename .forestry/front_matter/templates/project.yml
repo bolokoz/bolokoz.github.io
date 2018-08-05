@@ -3,3 +3,5 @@ label: Project
 hide_body: false
 is_partial: false
 fields: []
+pages:
+- _projects/civil-engineering-webapp.md
