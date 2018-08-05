@@ -3,7 +3,7 @@ title: Civil Engineering WebApp
 date: 2018-08-05
 layout: project
 description: Collection of web apps for civil engineering
-image: https://imgur.com/a/jF4FYCx
+image: https://i.imgur.com/WcI3Eha.png
 comments: false
 category: web
 tags: civil engineering web app truss vue 
