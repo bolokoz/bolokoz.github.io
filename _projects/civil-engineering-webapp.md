@@ -26,5 +26,5 @@ It's fairly simple and offers a lot. It's layout is made with [Vuetify](https://
 I just finished studying civil engineering for 5 years and I was annoyed by the fact I was doing nothing for the community, as I study in a public university.  
 
   <ul class="actions fit">
-    <li><a href="http://www.eng.yuribecker.com.br" class="button special fit">Access App here</a></li>
+    <li><a href="http://eng.yuribecker.com.br" class="button special fit">Access App here</a></li>
   </ul>
