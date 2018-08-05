@@ -8,5 +8,3 @@ fields:
   label: Text
   hidden: true
   default: Texto
-pages:
-- _projects/civil-engineering-webapp.md
