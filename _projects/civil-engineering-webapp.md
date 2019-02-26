@@ -1,30 +1,25 @@
 ---
-title: Civil Engineering WebApp
-date: 2018-08-05
+title: Didatic Truss Solver
+date: 2018-12-05 23:36:59 +0000
 layout: project
-description: Collection of web apps for civil engineering
-image: https://i.imgur.com/WcI3Eha.png
-comments: false
-category: web
-tags: civil engineering web app truss vue 
-status: development
-published: true
+description: WebApp that shows step-by-step how to solve trusses stiffness matrix
+image: https://imgur.com/a/jF4FYCx
 comments: true
+category: []
+tags: []
+status: On going
 
 ---
+# Didatic Truss Solver
 
-# Civil Engineering WebApp
+Intended to show in an easy and interactive way how to solve a truss using the stiffness method.
 
-## How it was created
+### How was made
 
-I stopped developing for Android because I believe web is the future.
-I watched several different tutorials on web dev and, in the end, I picked [Vue](https://vuejs.org/).
-It's fairly simple and offers a lot. It's layout is made with [Vuetify](https://vuetifyjs.com) and you just grab elements and put all together to form the page.
+It's made in Nuxt.js (Vue.js framework extension) written in JavaScript. It features Plot.ly graphs, Vuetify.js components and design.
 
-## Why?
-
-I just finished studying civil engineering for 5 years and I was annoyed by the fact I was doing nothing for the community, as I study in a public university.  
-
-  <ul class="actions fit">
-    <li><a href="http://eng.yuribecker.com.br" class="button special fit">Access App here</a></li>
-  </ul>
+<ul class="actions fit">
+  <li>
+    <a href="https://eng.yuribecker.com.br/trelica3" class="button special fit">Access App here</a>
+  </li>
+</ul>
